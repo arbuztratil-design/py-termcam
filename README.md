@@ -1,5 +1,7 @@
 # termcam
 
+![TermCam demo](docs/demo.gif)
+
 Your webcam — live — rendered in the terminal as ASCII, neon, dither or
 glitch art. One keystroke changes the style. No GUI windows, no browser, just
 the console and you.
